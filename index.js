@@ -176,4 +176,4 @@ function pingPong() {
     return result
 }
 
-console.log(pingPong());
+pingPong()
